@@ -1,4 +1,5 @@
-  dogs = ["Garp", "Vixen"]
-  next_dog = "Rogue"
-  dogs.push(next_dog)
+def using_push(array, element)  
+  array = []
+  array.push(element)
+end
 
